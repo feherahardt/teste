@@ -72,6 +72,7 @@ O ideal é que, no atendimento inicial, todas essas informações sejam coletada
 * Existe uma quantidade fixa de caracteres por campo?  
 * Os campos "Número de telefone" e "Endereço" são obrigatórios ou opcionais?
 
+---
 
 ### **Casos de Teste**
 
