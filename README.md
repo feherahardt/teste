@@ -54,7 +54,7 @@ O ideal é que, no atendimento inicial, todas essas informações sejam coletada
 
 ## **4º Cenário:**
 
-## **Campos alterados que precisam ser validados:**
+### **Campos alterados que precisam ser validados:**
 
 * Nome completo  
 * E-mail  
